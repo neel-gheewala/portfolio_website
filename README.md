@@ -21,11 +21,7 @@ npm -v
 ```
 
 ## 3️⃣ Clone Your Repository
-If previously cloned, **delete old folder**:
-```sh
-rm -rf portfolio_website
-```
-Clone latest version:
+
 ```sh
 git clone https://github.com/your-username/your-portfolio-repo.git portfolio_website
 cd portfolio_website
